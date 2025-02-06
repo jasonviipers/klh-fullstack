@@ -235,7 +235,7 @@ Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
 
 ## **Contact**
 
-Jason Yawilhit - [jason.michel.ld@gmail.com](mailto:jason.michel.ld@gmail.com)
+Jason Yawilhit - [devoffus@gmail.com](mailto:devoffus@gmail.com)
 
 Lien du projet : [https://github.com/jasonviipers/klh-fullstack](https://github.com/jasonviipers/klh-fullstack)
 
